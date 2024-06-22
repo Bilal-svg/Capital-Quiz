@@ -1,6 +1,5 @@
 # Capital-Quiz
 
-Using PostgreSQL, Nodejs and Expressjs developed this Capital-Quiz Web Application.
-
-- Random conutry name is displayed on screen and you need to enter its capital.
-- If the answer is correct, your score increases else game over and your score is resets.
+- Developed a web application which displays the name of the country and user has to enter its capital. If the answer is correct, total score increases else game over.
+- Designed a simple interface using HTML, CSS and EJS.
+- Built a backend using Node.js, Express and PostgreSQL
